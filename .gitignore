@@ -1,0 +1,4 @@
+.idea/
+*.exe
+venv/Lib/
+venv/Scripts/
